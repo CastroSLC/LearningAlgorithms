@@ -2,7 +2,7 @@
 
 ---
 
-## ???? English
+## English
 
 ### Description
 A collection of algorithm solutions organized by difficulty level (Easy, Medium, Hard). This repository serves as a learning resource for practicing coding challenges and improving problem-solving skills.
@@ -22,7 +22,7 @@ Feel free to add new algorithms or improve existing solutions by creating a pull
 
 ---
 
-## ???? Español
+## Español
 
 ### Descripción
 Una colección de soluciones de algoritmos organizados por nivel de dificultad (Fácil, Medio, Difícil). Este repositorio sirve como recurso de aprendizaje para practicar desafíos de programación y mejorar las habilidades de resolución de problemas.
@@ -42,5 +42,5 @@ Siéntete libre de agregar nuevos algoritmos o mejorar las soluciones existentes 
 
 ---
 
-## ?? License / Licencia
+## License / Licencia
 MIT
