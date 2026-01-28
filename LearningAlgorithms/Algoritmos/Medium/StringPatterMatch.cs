@@ -33,7 +33,7 @@ namespace LearningAlgorithms.Algoritmos.Medium {
             int matchCount = 0;
             
             //Se podría hacer con ReGex
-            //Reemplazamos las vocales con 1 y las consonantes con 0
+            //Reemplazamos las vocales con 0 y las consonantes con 1
             string newSource = Regex.Replace(source.ToLower(), "[aeiou]", "0");
             newSource = Regex.Replace(newSource, "[bcdfghjklmnpqrstvwxyz]", "1");
 
