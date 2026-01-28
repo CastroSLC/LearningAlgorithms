@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace LearningAlgorithms.Algoritmos.Easy {
+﻿namespace LearningAlgorithms.Algoritmos.Easy {
     //Dado un string de parentesis Ejempl: "((())())", Validar si la cadena tiene parentesis balanceados
     // Entrada: "((())())" → válido
     // Entrada: "(()" → inválido

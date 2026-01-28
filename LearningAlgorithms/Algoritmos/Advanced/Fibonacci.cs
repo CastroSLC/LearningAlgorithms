@@ -1,11 +1,4 @@
-﻿using LearningAlgorithms.Algoritmos.Advanced;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace LearningAlgorithms.Algoritmos.Advanced {
+﻿namespace LearningAlgorithms.Algoritmos.Advanced {
     /*
         * Escribe un programa que imprima los 50 primeros números de la sucesión
         * de Fibonacci empezando en 0.

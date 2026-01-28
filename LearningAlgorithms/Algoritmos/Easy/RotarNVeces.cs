@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace LearningAlgorithms.Algoritmos.Easy {
+﻿namespace LearningAlgorithms.Algoritmos.Easy {
     /*
         Dado un arreglo de enteros y un número k, devuelve un nuevo arreglo donde los elementos han sido rotados k posiciones hacia la derecha. 
         Los elementos que sobrepasan el final del arreglo deben colocarse al inicio

@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace LearningAlgorithms.Algoritmos.Advanced {
+﻿namespace LearningAlgorithms.Algoritmos.Advanced {
     /*
         Question 1: Array Manipulation - Neighbor Sum
         Given an array a, your task is to output an array b of the same length by applying the following transformation:

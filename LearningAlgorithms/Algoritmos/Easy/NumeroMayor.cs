@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace LearningAlgorithms.Algoritmos.Easy {
+﻿namespace LearningAlgorithms.Algoritmos.Easy {
     /*
         Dado un arreglo N[10,29,34,10,45,3,5] encuentra el SEGUNDO número más grande sin ordenar el arreglo.
         Output: 34

@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace LearningAlgorithms.Algoritmos.Advanced {
+﻿namespace LearningAlgorithms.Algoritmos.Advanced {
     /* 
         Question 2: String Pattern Matching - Anagram Groups
         Given an array of strings strs, group the anagrams together. You can return the answer in any order.

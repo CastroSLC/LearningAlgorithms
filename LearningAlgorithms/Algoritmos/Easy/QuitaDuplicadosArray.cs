@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace LearningAlgorithms.Algoritmos.Easy {
+﻿namespace LearningAlgorithms.Algoritmos.Easy {
     //Proyecto para tener conocimiento sobre algoritmos con distintos problemas
     public class QuitaDuplicadosArray {
         //1-. Dado un arreglo de enteros, devuelve un nuevo arreglo sin duplicados (No LinQ, no HashSet)

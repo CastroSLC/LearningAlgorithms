@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace LearningAlgorithms.Algoritmos.Easy {
+﻿namespace LearningAlgorithms.Algoritmos.Easy {
     public static class FiizBuzz {
         /*
              * Escribe un programa que muestre por consola (con un print) los

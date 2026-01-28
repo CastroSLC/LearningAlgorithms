@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace LearningAlgorithms.Algoritmos.Advanced {
+﻿namespace LearningAlgorithms.Algoritmos.Advanced {
     /*
         Question 4: Graph Traversal - Shortest Path in Maze
         You are given an m x n binary maze grid where:
